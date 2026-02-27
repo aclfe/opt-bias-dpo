@@ -1,2 +1,2 @@
 # llm-bias-mitigation-crows
-Counterfactual Data Augmentation for Bias Mitigation in Autoregressive Language Models: An Empirical Study on OPT-1.3B with CrowS-Pairs
+DPO-Based Mitigation in OPT-1.3B via Counterfactual Data Augmentation and QLoRA Fine-Tuning on CrowS-Pairs
